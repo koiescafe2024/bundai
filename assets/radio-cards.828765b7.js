@@ -1,0 +1,1 @@
+import{M as a}from"./index.77d89aa9.js";import{j as e}from"./vendor.1df1cb6a.js";const o=[{label:"Option-1",value:1},{label:"Option-2",value:2},{label:"Option-3",value:3}],s=()=>e(a,{options:o,defaultValue:1});export{s as default};
