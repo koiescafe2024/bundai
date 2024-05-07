@@ -1,0 +1,1 @@
+import{L as e}from"./index.aa118ebd.js";import{j as a,au as s}from"./vendor.a66b3477.js";const o=()=>a("div",{className:"permission-page",children:a(s,{className:"permission-intro",children:a(e,{id:"gloabal.tips.loginResult"})})});export{o as default};
